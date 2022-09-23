@@ -15,8 +15,8 @@
 .gpt3__header-content h1 {
   font-family: var(--font-family);
   font-weight: 800;
-  font-size: 62px;
-  line-height: 75px;
+  font-size: 56px;
+  line-height: 70px;
   letter-spacing: -0.04rem;
 }
 
@@ -24,7 +24,7 @@
   font-family: var(--font-family);
   font-size: normal;
   font-weight: normal;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 27px;
   color: var(--color-text);
 
@@ -143,8 +143,8 @@
 
   .gpt3__header-content__input input,
     .gpt3__header-content__input button {
-      font-size: 16px;
-      line-height: 24px;
+      font-size: 14px;
+      line-height: 20px;
     }
 }
 
